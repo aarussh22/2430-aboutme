@@ -35,11 +35,19 @@ h1 {
 }
 
 h2 {
+<<<<<<< HEAD
   text-shadow: 0.02em 0.08em deeppink;
+=======
+  font-style: italic;
+>>>>>>> prtfolio-styles
   border-bottom: 0.1em solid #66d7d1;
-  padding: 0.25em;
+  padding: 0.5em;
   margin: 1.6em 0;
+<<<<<<< HEAD
   color: #403d58;
+=======
+  color: #223e3d;
+>>>>>>> prtfolio-styles
 }
 
 section p {
@@ -49,7 +57,7 @@ section p {
 }
 
 .project {
-  background-color: #403d58;
+  background-color: #21482c;
   color: #f2efea;
   padding: 0.5em 2em;
   border-radius: 0.5em;
@@ -57,7 +65,7 @@ section p {
 }
 
 .project h3 {
-  color: #dbd563;
+  color: #8b50d7;
   margin-top: 1rem;
   margin-left: 2em;
   margin-right: 2em;
